@@ -1,3 +1,5 @@
+[About Me]()|[News]()|[Publications]()
+
 # AveragelyEfficientCode.github.io
 
 ## About me
