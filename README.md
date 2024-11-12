@@ -23,6 +23,8 @@ Is this a new line?
 More Text
 <br> BREAK
 
+**Edlinger**, Buchrieser, *Wood*, Positive Emotion Words in Scientific Abstracts, 2023
+
 
 <img src = "profile.jpg" width = "300" height = "300">
 
