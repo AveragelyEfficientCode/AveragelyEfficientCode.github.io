@@ -45,6 +45,12 @@ TEST <br>
 
 ## Blog <a name = "blog"></a>
 
+text
+*Written on 12.11.24*<br>
+### Blogpost about Apples
+An apple a day keeps the dr away
+
+[Link to full blogpost](./blog/oranges.md)
 ---
 
 Blogpost1
