@@ -1,8 +1,8 @@
-[About Me]()|[News]()|[Publications]()
+[About Me](#about)|[News](#news)|[Publications](#publications)
 
 # AveragelyEfficientCode.github.io
 
-## About me
+## About me <a name = "about"></a>
 ---
 
 I am Moritz Edlinger from University of Graz from the [University of Graz](https://www.uni-graz.at/de/)
@@ -16,11 +16,11 @@ Is this a new line?
 
 ---
 
-## News
+## News <a name = "news"></a>
 
 ---
 
-## Publications
+## Publications <a name = "publications"></a>
 
 ---
 
