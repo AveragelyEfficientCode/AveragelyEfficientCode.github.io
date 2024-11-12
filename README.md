@@ -20,14 +20,23 @@ Is this a new line?
 
 ---
 
+More Text
+<br> BREAK
+
 ## Publications <a name = "publications"></a>
 
 ---
+TEXT
+TEXT
+TEXT
+<br>
 
 Publication1
 
 ---
 
+test <br>
+TEST <br>
 
 ## Blog <a name = "blog"></a>
 
