@@ -23,6 +23,9 @@ Is this a new line?
 More Text
 <br> BREAK
 
+
+<img src = "profile.jpg" width = "300" height = "300">
+
 ## Publications <a name = "publications"></a>
 
 ---
