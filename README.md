@@ -1,4 +1,4 @@
-[About Me](#about)|[News](#news)|[Publications](#publications)
+[About Me](#about)|[News](#news)|[Publications](#publications)|[Blog](#blog)
 
 # AveragelyEfficientCode.github.io
 
@@ -29,7 +29,7 @@ Publication1
 ---
 
 
-## Blog
+## Blog <a name = "blog"></a>
 
 ---
 
